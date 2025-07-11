@@ -6,6 +6,7 @@ background-color:#4E47FF ;
 padding:  12px 36px;
 border-radius: 10px;
 font-size: 16px ;
+
 }
  .Stay-focous{
  /* position:  ; */
@@ -18,23 +19,32 @@ font-size: 16px ;
   font-optical-sizing: auto;
   
   font-style: normal;
+
 }
 
 .intro{
 display: flex;
 align-items: center;
 justify-content: space-between;
-margin: 150px 150px;
+margin: 0px  150px ;
+margin-bottom: 150px;
 
+ 
 }
 .header
 {
-background-image: url('programinghero/B12A01-landing-launchpad/Assets/Hero-bg.png')
+background-image: url('Assets/Hero-bg.png')
+
 
 }
 .nav{
-background-image: ;
-/* justify-content: center; */
+
+
+justify-content: center;
+text-align: center;
+margin-bottom: 106px;
+
+
 }
 
 
@@ -55,5 +65,63 @@ text-decoration:none ;
 .cool-dark{
 text-align: center;
 justify-content: center;
+
+margin-bottom: 100px;
+
+}
+.main
+{
+
+}
+
+.nav-main{
+margin:  00px 140px ;
+
+}
+.div-main{
+
+
+}
+
+
+
+
+.Action-section
+{  display: flex;
+justify-content: space-between;
+/* background-color: aqua; */
+}
+.see-action
+{
+/* margin:  auto 0; */
+/* text-align: center; */
+}
+.h5{
+
+}
+
+
+.Productive-user
+{
+justify-content: center;
+background-color:#dbdafb ;
+margin-top: 140px;
+height: 306px;
+text-align: center;
+font-size: large;
+border-radius: 10px;
+padding-top: 50px;
+}
+.user-type
+{
+text-align: center;
+display: flex;
+justify-content: center;
+gap: 150px;
+
+
+}
+.number
+{font-size: 80px;
 
 }
