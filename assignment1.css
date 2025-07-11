@@ -1,5 +1,11 @@
-
-
+.tx-al{
+text-align: center;
+}
+.flex{
+display: flex;
+}
+.bold
+{   }
 .button{
 color: #FFFFFF;
 background-color:#4E47FF ;
@@ -20,6 +26,7 @@ c
   font-optical-sizing: auto;
   
   font-style: normal;
+  
 
 }
 
@@ -31,6 +38,9 @@ margin: 0px  150px ;
 margin-bottom: 150px;
 
  
+}
+.body{
+background-color: aliceblue ;
 }
 .header
 {
@@ -88,14 +98,21 @@ margin:  00px 140px ;
 
 
 .Action-section
+
 {  display: flex;
 justify-content: space-between;
-/* background-color: aqua; */
+ /* background-color: rebeccapurple; */ */
 }
 .see-action
 {
-/* margin:  auto 0; */
-/* text-align: center; */
+/* background-color: aqua; */
+margin:  auto 0;
+font-size: large;
+/* border-radius: 10px; */
+}
+
+.webflow-image{ 
+border-radius: 10px;
 }
 .h5{
 
@@ -106,15 +123,16 @@ justify-content: space-between;
 {
 justify-content: center;
 background-color:#dbdafb ;
-/* margin-top: 140px; */
+margin-top: 140px;
 height: 306px;
 text-align: center;
-font-size: larger;
+font-size: large ;
 border-radius: 10px;
 padding-top: 50px;
 }
 .user-type
 {
+
 text-align: center;
 display: flex;
 justify-content: center;
@@ -126,5 +144,17 @@ gap: 150px;
 {font-size: 80px;
 color: #4E47FF;
 font: bold;
+
+}
+.card-container{
+gap: 20px;
+}
+
+.card{
+border-radius: 10px;
+padding: 20px;
+background-color: #FFFFFF;
+}
+.rn {
 
 }
