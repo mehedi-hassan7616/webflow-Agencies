@@ -4,8 +4,7 @@ text-align: center;
 .flex{
 display: flex;
 }
-.bold
-{   }
+
 .button{
 color: #FFFFFF;
 background-color:#4E47FF ;
@@ -35,17 +34,20 @@ display: flex;
 align-items: center;
 justify-content: space-between;
 margin: 0px  150px ;
-margin-bottom: 150px;
+margin-bottom: 100px;
+
 
  
 }
+
+
 .body{
 background-color: aliceblue ;
+/* padding-bottom: 100PX; */
 }
 .header
 {
 background-image: url('Assets/Hero-bg.png')
-
 
 }
 .nav{
@@ -77,8 +79,9 @@ text-decoration:none ;
 text-align: center;
 justify-content: center;
 
-margin-bottom: 0px ;
-
+margin-bottom: 100px ;
+padding: auto 0;
+margin-bottom: 100px;
 }
 .main
 {
@@ -172,9 +175,32 @@ justify-content: space-between;
 margin:  auto 0;
 }
 .getin
-{margin: auto 0;
+{padding:  auto 0;
 }
 .btn{
-padding: auto;
-border: 50px  ;
+padding:  0 auto;
+height: 50px;
 }
+.logo{
+/* background-color: aqua; */
+padding: 100px 340px;
+border-radius: 10px;
+
+}
+.dnul{
+display: flex;
+text-align: center;
+justify-content: space-around;
+
+gap: 150px;
+
+.vir1{
+color: #4E47FF;
+}
+
+div ul{
+display: flex;} 
+ div ul li
+{
+list-style:none ;
+}  
