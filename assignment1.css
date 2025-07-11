@@ -1,0 +1,59 @@
+
+
+.button{
+color: #FFFFFF;
+background-color:#4E47FF ;
+padding:  12px 36px;
+border-radius: 10px;
+font-size: 16px ;
+}
+ .Stay-focous{
+ /* position:  ; */
+
+} 
+
+
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+}
+
+.intro{
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin: 150px 150px;
+
+}
+.header
+{
+background-image: url('programinghero/B12A01-landing-launchpad/Assets/Hero-bg.png')
+
+}
+.nav{
+background-image: ;
+/* justify-content: center; */
+}
+
+
+.nav-title{
+font-weight: 990 ;
+font-size:x-large;
+
+color: #4E47FF;
+}
+
+.nav ul li {
+list-style: none;
+}
+.nav li a{
+text-decoration:none ;
+}
+
+.cool-dark{
+text-align: center;
+justify-content: center;
+
+}
