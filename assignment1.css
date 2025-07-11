@@ -12,7 +12,7 @@ background-color:#4E47FF ;
 padding:  12px 36px;
 border-radius: 10px;
 font-size: 16px ;
-c
+
 
 }
  .Stay-focous{
@@ -77,7 +77,7 @@ text-decoration:none ;
 text-align: center;
 justify-content: center;
 
-margin-bottom: 100px;
+margin-bottom: 0px ;
 
 }
 .main
@@ -96,12 +96,10 @@ margin:  00px 140px ;
 
 
 
-
-.Action-section
-
-{  display: flex;
+.Action-section{  
+display: flex;
 justify-content: space-between;
- /* background-color: rebeccapurple; */ */
+ /* background-color: rebeccapurple; */ 
 }
 .see-action
 {
@@ -154,7 +152,29 @@ gap: 20px;
 border-radius: 10px;
 padding: 20px;
 background-color: #FFFFFF;
+
 }
 .rn {
 
+}
+.user-say{
+margin: 140px 0;
+
+}
+
+.tuch-sec{
+/* text-align: center; */
+justify-content: space-between;
+/* margin:  auto 0; */
+
+}
+.touch{
+margin:  auto 0;
+}
+.getin
+{margin: auto 0;
+}
+.btn{
+padding: auto;
+border: 50px  ;
 }
